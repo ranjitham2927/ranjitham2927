@@ -6,7 +6,7 @@
 <!--- Badges for Education & Socials --->
 <p align="left">
   <img src="https://img.shields.io/badge/Degree-B.E.%20Computer%20Science%20%26%20Engineering%20(2026)-blue?style=for-the-badge&logo=academia" alt="Education" />
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ranjitham-a-673374295"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/ranjitham-a-673374295"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:your.ranjitham2927@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
